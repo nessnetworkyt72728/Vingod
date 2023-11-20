@@ -22,7 +22,7 @@ banner = f""" ██╗   ██╗██╗███╗   ██╗ ███�
  ╚██╗ ██╔╝██║██║╚██╗██║██║   ██║██║   ██║██║  ██║
   ╚████╔╝ ██║██║ ╚████║╚██████╔╝╚██████╔╝██████╔╝
    ╚═══╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═════╝ 
- {w}Vingod by 0xSpoofed © | Last update: April 2023\n\n -----""".replace('█', f'{w}█{c}')
+ {w}Vingod by vavabse © | Last update: 20/11/2023\n\n -----""".replace('█', f'{w}█{c}')
 
 
 # <----- rich presence ----->
@@ -35,8 +35,8 @@ def rich_presence():
             large_image= "tool",
             large_text = f"Vingod - Vinted bot",
             details = "Version: Stable",
-            state = "by 0xSpoofed",
-            buttons=[{"label": "Github", "url": "https://github.com/0xSpoofed/Vingod"}]
+            state = "by vavabse",
+            buttons=[{"label": "Github", "url": "https://github.com/vavabse/Vingod.git"}]
             )
     except Exception as e:
         pass

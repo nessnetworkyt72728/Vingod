@@ -34,7 +34,7 @@ python Vingod.py
 
 ### 3. Third step
 
-1) Change the settings starting from the webhook by pressing `2` and `enter`:
+1) Change the settings starting from the webhook by pressing `2`2 and `enter`:
 
 ![img](https://imgur.com/es1zcij.png)
 
